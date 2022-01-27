@@ -26,8 +26,6 @@ void testword(char wordd[100]){
 	else{
 		printf("\n\n\tNot a palindrome\n");
 	}
-	
-	
 }
 
 
