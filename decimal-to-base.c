@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 int execution(int a, int b); //function prototype
+
 int main()
 {
 	int n1,n2; //declaring numbers
@@ -8,6 +10,7 @@ int main()
 	execution(n1,n2); //calling function
 		
 }
+
 int execution(int a, int b)
 {
 	int bin[5];
